@@ -1,0 +1,8 @@
+# ninja log v5
+1	20	1698259966494422826	CMakeFiles/homework1.dir/client.c.o	4ec6c45edeb8afb7
+1	27	1698259966502422856	CMakeFiles/homework1.dir/server.c.o	95363e158af85004
+0	163	1698259966634423360	CMakeFiles/homework1.dir/main.cpp.o	174f88d5d9daa3b3
+0	25	1698259989290510117	CMakeFiles/homework1.dir/main.cpp.o	174f88d5d9daa3b3
+1	20	1698607971303557976	CMakeFiles/homework1.dir/client.c.o	4ec6c45edeb8afb7
+1	35	1698607971319558021	CMakeFiles/homework1.dir/server.c.o	95363e158af85004
+1	59	1698607971343558089	CMakeFiles/homework1.dir/main.cpp.o	174f88d5d9daa3b3
